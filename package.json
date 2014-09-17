@@ -1,5 +1,5 @@
 {
-  "name": "CouchBack",
+  "name": "couchback",
   "version": "0.1.0",
   "description": "Backbone.js extension to make working with CouchDB easy.",
   "main": "couchback.js",
