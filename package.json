@@ -1,0 +1,26 @@
+{
+  "name": "CouchBack",
+  "version": "0.1.0",
+  "description": "Backbone.js extension to make working with CouchDB easy.",
+  "main": "couchback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joebain/couchback.git"
+  },
+  "keywords": [
+    "backbone",
+    "couchdb"
+  ],
+  "author": "Joe Bain <hi@joeba.in>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joebain/couchback/issues"
+  },
+  "homepage": "https://github.com/joebain/couchback",
+  "dependencies": {
+    "backbone": "1.0.0 - 1.1.2"
+  }
+}

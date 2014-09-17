@@ -1,0 +1,30 @@
+{
+  "name": "CouchBack",
+  "main": "couchback.js",
+  "version": "0.1.0",
+  "authors": [
+    "Joe Bain <hi@joeba.in>"
+  ],
+  "description": "Backbone.js extension to make working with CouchDB easy.",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "backbone",
+    "couchdb"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/joebain/couchback",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "1.0.0 - 1.1.2",
+  }
+}
