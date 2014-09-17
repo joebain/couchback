@@ -1,4 +1,4 @@
-function(root, factory) {
+(function(root, factory) {
     if (typeof define === 'function' && define.amd) {
         define(['backbone'], function(Backbone) {
             return (root.CouchBack = factory(root, Backbone));
@@ -61,4 +61,4 @@ function(root, factory) {
 
     return Backbone.Couch;
 
-});
+}));
